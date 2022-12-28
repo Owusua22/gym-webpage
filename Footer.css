@@ -1,0 +1,30 @@
+.footer{
+    padding: 50px 0px;
+    background: #cb90d5;
+    height: 300px;
+
+}
+.footer_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 3rem;
+
+}
+.footer_box{
+    width: 33%;
+}
+.footer_box p{
+    line-height: 28px;
+    margin-top: 28px;
+}
+.footer_title{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+.footer_links li{
+line-height: 28px;
+}
+.footer_links li a{
+    cursor: pointer;
+}

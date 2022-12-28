@@ -1,0 +1,18 @@
+.start_wrapper{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 3rem;
+    align-items: center;
+}
+.start_content{
+    width: 50%;
+}
+.start_content h2{
+font-size: 2.5rem;
+margin: 20px;
+color: #cb90d5;
+
+}
+.start_content p{
+font-size: 1.1rem;
+}

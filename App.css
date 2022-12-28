@@ -1,0 +1,39 @@
+
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono&subset=cyrillic");
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: var(-- font-name);
+
+}
+
+section{
+  padding: 50px 0;
+}
+html{
+  scroll-behavior: smooth;
+}
+a{
+  text-decoration: none;
+  color: unset;
+
+}
+a:hover{
+  color: unset;
+}
+ul{
+  list-style: none;
+}
+.container{
+  width: 1140px;
+  padding: 0px 15px;
+  margin: auto;
+}
+.section_title{
+  color: rgb(235, 212, 235);
+  font-weight: 700;
+}
